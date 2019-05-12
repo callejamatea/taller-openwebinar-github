@@ -20,8 +20,8 @@ Para crear una ***lista*** con elementos: (dejar antes una linea en blanco)
 **Viñetas:** para incluir niveles el segundo grupo espacio `*` espacio
 
 * uno
- * unouno
- * unodos
+ *    unouno
+ *    unodos
 * dos
  * dosuno
  * dosdos 

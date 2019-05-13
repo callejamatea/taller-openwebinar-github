@@ -20,11 +20,9 @@ Para crear una ***lista*** con elementos: (dejar antes una linea en blanco)
 **Viñetas:** para incluir niveles el segundo grupo espacio `*` espacio
 
 * uno
- *    unouno
- *    unodos
 * dos
- * dosuno
- * dosdos 
+ *    dosuno
+ *    dosdos 
 * tres
 
 Pero si las queremos en un cuadro así:
@@ -34,6 +32,7 @@ Pero si las queremos en un cuadro así:
 - segundo
 - tercero
 ```
+
 
 
 > Angle brackets `>` se utilizan para bloques de texto.  
@@ -74,7 +73,7 @@ No me encuentra las imagenes locales
 ![Editor preferences pane](http://d.pr/i/6OL5+)
 
 
-![Editor preferences pane]( ubuntu.png)
+![Editor preferences pane](../img/ubuntu.png)
 
 ![imagen](/EXTERIOR.jpg)
 
@@ -84,5 +83,4 @@ la imagen alojada en github
 Esto si funciona
 ![](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)
  
-
 

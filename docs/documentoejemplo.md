@@ -1,6 +1,8 @@
 # Esto es un ejemplo de documento con Markdown #
 5/12/2019 11:40:40 PM 
 
+Vamos a probar los botones **como se aplican formatos**
+
 Pero este editor es muy sencillo funciona como cualquier editor actual, no es necesario saber las etiquetas, pues se puede aplicar con **botones**.
 
 Si queremos que haga un salto de linea, dejamos linea en blanco.
@@ -66,19 +68,15 @@ Añadir lineas de separacion
 
 
 **Insertar imágenes**
-No me encuentra las imagenes locales 
-
-![Editor preferences pane](/ubuntu.png)
+No me muestra las imagenes locales, pero si se ven en la nubee
 
 ![Editor preferences pane](http://d.pr/i/6OL5+)
 
-
-![Editor preferences pane](../img/ubuntu.png)
-
-![imagen](/EXTERIOR.jpg)
+![](../img/exterior.jpg)
 
 la imagen alojada en github
-![imagen](https://github.com/callejamatea/taller-openwebinar-github/blob/master/img/EXTERIOR.jpg)
+
+![](https://github.com/callejamatea/taller-openwebinar-github/blob/master/img/EXTERIOR.jpg)
 
 Esto si funciona
 ![](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)

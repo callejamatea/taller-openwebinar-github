@@ -12,6 +12,7 @@ Para crear una ***lista*** con elementos: (dejar antes una linea en blanco)
 1. uno
 2. dos
 3. tres
+4. 
 
 **Viñetas:** Para que tengan el punto de la viñeta con un *
 
